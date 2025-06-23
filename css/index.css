@@ -1,0 +1,9 @@
+.bg-image {
+  background: url('../img/bg-kids.webp') no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+a {
+    text-decoration: none;
+}
